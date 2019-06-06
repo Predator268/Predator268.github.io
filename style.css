@@ -1,0 +1,71 @@
+body {
+    background-color: rgba(28, 40, 51, 1);
+ }
+ header {
+    padding: 10px 10px 5px 10px;
+    background-color: rgba(151, 154, 154, 1);
+ }
+ .logo {
+    font-family: MathJax_Script;
+    font-size: 75px;
+    color: rgba(52, 73, 94, 1);
+ }
+ #background-div {
+    padding: 0px 75px 20px 75px;
+ }
+ #main-div {
+    background-color: rgba(202, 207, 210, 1);
+ }
+ #homepage {
+    padding: 50px 100px 30px 100px;
+    background-color: rgba(31, 97, 141, 1);
+ }
+ .tagline {
+    font-family: Dyuthi;
+    font-size: 120px;
+    color: rgba(208, 211, 212, 1);
+ }
+ .tags {
+    font-family: Dyuthi;
+    font-size: 150px;
+    color: rgba(21, 67, 96, 1);
+ }
+ #about {
+    font-family: MathJax_Math;
+    font-size: 30px;
+    padding: 30px 30px 30px 30px;
+ }
+ #my-work {
+    padding: 30px 30px 30px 30px;
+ }
+ #contact-me {
+    padding: 50px 50px 50px 50px;
+    font-family: MathJax_Math;
+    font-size: 30px;
+    padding: 30px 30px 30px 30px;
+ }
+ hr {
+    border-color: rgba(98, 101, 103, 0.75);
+    border-width: 3px;
+    border-radius: 20px 20px 20px 20px;
+ }
+ .headline {
+    font-family: Dyuthi;
+    font-size: 60px;
+ }
+ .nav {
+    color: rgba(236, 240, 241, 1);
+ }
+ .image-left {
+    width: 50%;
+    height: 50%;
+    border-radius: 5px 30px 5px 30px;
+ }
+ .image-right {
+    width: 50%;
+    height: 50%;
+    border-radius: 30px 5px 30px 5px;
+ }
+ .logo {
+    font-size: 50px;
+ }
